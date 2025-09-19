@@ -1,0 +1,14 @@
+C:\Users\prabu\cepatKirim\bin\Debug\net9.0\cepatKirim.exe
+C:\Users\prabu\cepatKirim\bin\Debug\net9.0\cepatKirim.deps.json
+C:\Users\prabu\cepatKirim\bin\Debug\net9.0\cepatKirim.runtimeconfig.json
+C:\Users\prabu\cepatKirim\bin\Debug\net9.0\cepatKirim.dll
+C:\Users\prabu\cepatKirim\bin\Debug\net9.0\cepatKirim.pdb
+C:\Users\prabu\cepatKirim\obj\Debug\net9.0\cepatKirim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabu\cepatKirim\obj\Debug\net9.0\cepatKirim.AssemblyInfoInputs.cache
+C:\Users\prabu\cepatKirim\obj\Debug\net9.0\cepatKirim.AssemblyInfo.cs
+C:\Users\prabu\cepatKirim\obj\Debug\net9.0\cepatKirim.csproj.CoreCompileInputs.cache
+C:\Users\prabu\cepatKirim\obj\Debug\net9.0\cepatKirim.dll
+C:\Users\prabu\cepatKirim\obj\Debug\net9.0\refint\cepatKirim.dll
+C:\Users\prabu\cepatKirim\obj\Debug\net9.0\cepatKirim.pdb
+C:\Users\prabu\cepatKirim\obj\Debug\net9.0\cepatKirim.genruntimeconfig.cache
+C:\Users\prabu\cepatKirim\obj\Debug\net9.0\ref\cepatKirim.dll
