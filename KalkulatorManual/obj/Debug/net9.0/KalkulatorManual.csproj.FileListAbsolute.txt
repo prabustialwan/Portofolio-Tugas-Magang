@@ -1,0 +1,14 @@
+C:\Users\prabu\KalkulatorManual\bin\Debug\net9.0\KalkulatorManual.exe
+C:\Users\prabu\KalkulatorManual\bin\Debug\net9.0\KalkulatorManual.deps.json
+C:\Users\prabu\KalkulatorManual\bin\Debug\net9.0\KalkulatorManual.runtimeconfig.json
+C:\Users\prabu\KalkulatorManual\bin\Debug\net9.0\KalkulatorManual.dll
+C:\Users\prabu\KalkulatorManual\bin\Debug\net9.0\KalkulatorManual.pdb
+C:\Users\prabu\KalkulatorManual\obj\Debug\net9.0\KalkulatorManual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabu\KalkulatorManual\obj\Debug\net9.0\KalkulatorManual.AssemblyInfoInputs.cache
+C:\Users\prabu\KalkulatorManual\obj\Debug\net9.0\KalkulatorManual.AssemblyInfo.cs
+C:\Users\prabu\KalkulatorManual\obj\Debug\net9.0\KalkulatorManual.csproj.CoreCompileInputs.cache
+C:\Users\prabu\KalkulatorManual\obj\Debug\net9.0\KalkulatorManual.dll
+C:\Users\prabu\KalkulatorManual\obj\Debug\net9.0\refint\KalkulatorManual.dll
+C:\Users\prabu\KalkulatorManual\obj\Debug\net9.0\KalkulatorManual.pdb
+C:\Users\prabu\KalkulatorManual\obj\Debug\net9.0\KalkulatorManual.genruntimeconfig.cache
+C:\Users\prabu\KalkulatorManual\obj\Debug\net9.0\ref\KalkulatorManual.dll

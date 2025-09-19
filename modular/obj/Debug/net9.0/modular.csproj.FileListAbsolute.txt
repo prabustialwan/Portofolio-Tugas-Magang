@@ -1,0 +1,14 @@
+C:\Users\prabu\modular\bin\Debug\net9.0\modular.exe
+C:\Users\prabu\modular\bin\Debug\net9.0\modular.deps.json
+C:\Users\prabu\modular\bin\Debug\net9.0\modular.runtimeconfig.json
+C:\Users\prabu\modular\bin\Debug\net9.0\modular.dll
+C:\Users\prabu\modular\bin\Debug\net9.0\modular.pdb
+C:\Users\prabu\modular\obj\Debug\net9.0\modular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabu\modular\obj\Debug\net9.0\modular.AssemblyInfoInputs.cache
+C:\Users\prabu\modular\obj\Debug\net9.0\modular.AssemblyInfo.cs
+C:\Users\prabu\modular\obj\Debug\net9.0\modular.csproj.CoreCompileInputs.cache
+C:\Users\prabu\modular\obj\Debug\net9.0\modular.dll
+C:\Users\prabu\modular\obj\Debug\net9.0\refint\modular.dll
+C:\Users\prabu\modular\obj\Debug\net9.0\modular.pdb
+C:\Users\prabu\modular\obj\Debug\net9.0\modular.genruntimeconfig.cache
+C:\Users\prabu\modular\obj\Debug\net9.0\ref\modular.dll

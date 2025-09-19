@@ -1,0 +1,14 @@
+C:\Users\prabu\Downloads\Belajar\belajarCSharp\bin\Debug\net9.0\belajarCSharp.exe
+C:\Users\prabu\Downloads\Belajar\belajarCSharp\bin\Debug\net9.0\belajarCSharp.deps.json
+C:\Users\prabu\Downloads\Belajar\belajarCSharp\bin\Debug\net9.0\belajarCSharp.runtimeconfig.json
+C:\Users\prabu\Downloads\Belajar\belajarCSharp\bin\Debug\net9.0\belajarCSharp.dll
+C:\Users\prabu\Downloads\Belajar\belajarCSharp\bin\Debug\net9.0\belajarCSharp.pdb
+C:\Users\prabu\Downloads\Belajar\belajarCSharp\obj\Debug\net9.0\belajarCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabu\Downloads\Belajar\belajarCSharp\obj\Debug\net9.0\belajarCSharp.AssemblyInfoInputs.cache
+C:\Users\prabu\Downloads\Belajar\belajarCSharp\obj\Debug\net9.0\belajarCSharp.AssemblyInfo.cs
+C:\Users\prabu\Downloads\Belajar\belajarCSharp\obj\Debug\net9.0\belajarCSharp.csproj.CoreCompileInputs.cache
+C:\Users\prabu\Downloads\Belajar\belajarCSharp\obj\Debug\net9.0\belajarCSharp.dll
+C:\Users\prabu\Downloads\Belajar\belajarCSharp\obj\Debug\net9.0\refint\belajarCSharp.dll
+C:\Users\prabu\Downloads\Belajar\belajarCSharp\obj\Debug\net9.0\belajarCSharp.pdb
+C:\Users\prabu\Downloads\Belajar\belajarCSharp\obj\Debug\net9.0\belajarCSharp.genruntimeconfig.cache
+C:\Users\prabu\Downloads\Belajar\belajarCSharp\obj\Debug\net9.0\ref\belajarCSharp.dll
