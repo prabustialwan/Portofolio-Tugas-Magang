@@ -1,0 +1,14 @@
+C:\Users\prabu\kodingkopi2\obj\Debug\net9.0\kodingkopi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabu\kodingkopi2\obj\Debug\net9.0\kodingkopi2.AssemblyInfoInputs.cache
+C:\Users\prabu\kodingkopi2\obj\Debug\net9.0\kodingkopi2.AssemblyInfo.cs
+C:\Users\prabu\kodingkopi2\obj\Debug\net9.0\kodingkopi2.csproj.CoreCompileInputs.cache
+C:\Users\prabu\kodingkopi2\bin\Debug\net9.0\kodingkopi2.exe
+C:\Users\prabu\kodingkopi2\bin\Debug\net9.0\kodingkopi2.deps.json
+C:\Users\prabu\kodingkopi2\bin\Debug\net9.0\kodingkopi2.runtimeconfig.json
+C:\Users\prabu\kodingkopi2\bin\Debug\net9.0\kodingkopi2.dll
+C:\Users\prabu\kodingkopi2\bin\Debug\net9.0\kodingkopi2.pdb
+C:\Users\prabu\kodingkopi2\obj\Debug\net9.0\kodingkopi2.dll
+C:\Users\prabu\kodingkopi2\obj\Debug\net9.0\refint\kodingkopi2.dll
+C:\Users\prabu\kodingkopi2\obj\Debug\net9.0\kodingkopi2.pdb
+C:\Users\prabu\kodingkopi2\obj\Debug\net9.0\kodingkopi2.genruntimeconfig.cache
+C:\Users\prabu\kodingkopi2\obj\Debug\net9.0\ref\kodingkopi2.dll

@@ -1,0 +1,14 @@
+C:\Users\prabu\miniproject3\bin\Debug\net9.0\miniproject3.exe
+C:\Users\prabu\miniproject3\bin\Debug\net9.0\miniproject3.deps.json
+C:\Users\prabu\miniproject3\bin\Debug\net9.0\miniproject3.runtimeconfig.json
+C:\Users\prabu\miniproject3\bin\Debug\net9.0\miniproject3.dll
+C:\Users\prabu\miniproject3\bin\Debug\net9.0\miniproject3.pdb
+C:\Users\prabu\miniproject3\obj\Debug\net9.0\miniproject3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabu\miniproject3\obj\Debug\net9.0\miniproject3.AssemblyInfoInputs.cache
+C:\Users\prabu\miniproject3\obj\Debug\net9.0\miniproject3.AssemblyInfo.cs
+C:\Users\prabu\miniproject3\obj\Debug\net9.0\miniproject3.csproj.CoreCompileInputs.cache
+C:\Users\prabu\miniproject3\obj\Debug\net9.0\miniproject3.dll
+C:\Users\prabu\miniproject3\obj\Debug\net9.0\refint\miniproject3.dll
+C:\Users\prabu\miniproject3\obj\Debug\net9.0\miniproject3.pdb
+C:\Users\prabu\miniproject3\obj\Debug\net9.0\miniproject3.genruntimeconfig.cache
+C:\Users\prabu\miniproject3\obj\Debug\net9.0\ref\miniproject3.dll
