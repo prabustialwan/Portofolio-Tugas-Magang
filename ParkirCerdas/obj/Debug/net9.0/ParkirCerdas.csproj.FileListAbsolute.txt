@@ -1,0 +1,14 @@
+C:\Users\prabu\ParkirCerdas\bin\Debug\net9.0\ParkirCerdas.exe
+C:\Users\prabu\ParkirCerdas\bin\Debug\net9.0\ParkirCerdas.deps.json
+C:\Users\prabu\ParkirCerdas\bin\Debug\net9.0\ParkirCerdas.runtimeconfig.json
+C:\Users\prabu\ParkirCerdas\bin\Debug\net9.0\ParkirCerdas.dll
+C:\Users\prabu\ParkirCerdas\bin\Debug\net9.0\ParkirCerdas.pdb
+C:\Users\prabu\ParkirCerdas\obj\Debug\net9.0\ParkirCerdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabu\ParkirCerdas\obj\Debug\net9.0\ParkirCerdas.AssemblyInfoInputs.cache
+C:\Users\prabu\ParkirCerdas\obj\Debug\net9.0\ParkirCerdas.AssemblyInfo.cs
+C:\Users\prabu\ParkirCerdas\obj\Debug\net9.0\ParkirCerdas.csproj.CoreCompileInputs.cache
+C:\Users\prabu\ParkirCerdas\obj\Debug\net9.0\ParkirCerdas.dll
+C:\Users\prabu\ParkirCerdas\obj\Debug\net9.0\refint\ParkirCerdas.dll
+C:\Users\prabu\ParkirCerdas\obj\Debug\net9.0\ParkirCerdas.pdb
+C:\Users\prabu\ParkirCerdas\obj\Debug\net9.0\ParkirCerdas.genruntimeconfig.cache
+C:\Users\prabu\ParkirCerdas\obj\Debug\net9.0\ref\ParkirCerdas.dll
